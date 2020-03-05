@@ -1,0 +1,19 @@
+site_name: Документация
+
+docs_dir: 'D:\python\python_study\mysite\wiki\django3_docs\docs\'
+site_dir: 'D:\python\python_study\mysite\wiki\build_docs\'
+
+pages:
+  - Главная: index.md
+  - План: 
+    - Что нужно сделать: plan/to_do.md
+
+dev_addr: 
+  127.0.0.1:8001
+
+theme:
+  readthedocs
+
+markdown_extension:
+  -toc:
+    permalink: True
