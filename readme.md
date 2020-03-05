@@ -1,3 +1,5 @@
 # Мое изучение Python
 Изучаю Python по книжке.
-Клонировал из git на рабочий комп
+
+1. Установить Markdown - pip install markdown
+2. Установить mkdocs - pip install mkdocs
