@@ -4,3 +4,5 @@
 
 1. Установить Markdown - pip install markdown
 2. Установить mkdocs - pip install mkdocs
+
+*страница 52*
